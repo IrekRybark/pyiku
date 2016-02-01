@@ -6,7 +6,7 @@ I call it pyiku to make sure that hypothetical International Association of Haik
 The algorithm is based on gjreda/beer-snob-says Twitter bot generating snobby beer reviews.
 
 ## Credits
-- Markov Chains: Greg Reda (gjreda) (https://github.com/gjreda/beer-snob-says)
+- Markov Chains and data: Greg Reda (gjreda) (https://github.com/gjreda/beer-snob-says)
 - Syllable counting: M. Emre Aydın (http://eayd.in/?p=232)
 
 ## Examples
