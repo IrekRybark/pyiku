@@ -11,6 +11,8 @@ The algorithm is based on gjreda/beer-snob-says Twitter bot generating snobby be
 
 ## Examples
 
+Some of the pyikus are funny and some are complete nonsense.  A lot to be improved.
+
 ### Style: 1
 
 quick finish, w no  
